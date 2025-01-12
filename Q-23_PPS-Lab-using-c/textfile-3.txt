@@ -1,0 +1,6 @@
+Hello World! This is a demonstration of appending operation in c programming
+Code written by SN Chakri, 2451-24-749-031;
+@snchakri on github, linkedin
+
+Write from here:
+--------->
