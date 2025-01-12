@@ -1,0 +1,2 @@
+When program is run, all the contents of "\sourcefile.tx" twill be copied here (i.e to "targetfile.txt");
+Starting from here, i.e next line:
