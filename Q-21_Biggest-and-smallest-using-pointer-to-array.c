@@ -2,7 +2,7 @@
 
 /*  1. Taking size of array into 'n'
     2. Taking input into array 'arr' of double datatype
-    3. Accept used input into the array
+    3. Accept user input into the array
     4. Creating moving pointer, of name moving_ptr; this pointer will move along the array by each iteration
     5. Creating a pointer of name min_ptr, which will point to the minimum value of array
     6. Creating a pointer of name max_ptr, which will point to the maximum value of array
